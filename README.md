@@ -26,8 +26,3 @@ Table: `employees`
 - How to use scalar and correlated subqueries effectively
 - Difference between `IN`, `EXISTS`, and `=` with subqueries
 - How subqueries can filter, return values, or act as virtual tables
-
-## 🧠 Challenges Faced
-- Ensuring subqueries return valid types (especially for scalar usage)
-- Debugging correlated subqueries due to column reference errors
-- Optimizing derived tables for readability and performance
